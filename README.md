@@ -1,1 +1,1 @@
-# ASL-Sign-Prediction
+# SIH-Practice
